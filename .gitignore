@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.Python
+env/
+build/
+
+model/*.pkl
+data/*.csv
+.env
